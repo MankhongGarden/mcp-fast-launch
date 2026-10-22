@@ -1,0 +1,9 @@
+{
+  "scanDirs": ["C:\\code"],
+  "exclude": ["_archive", "node_modules", "plugin", ".git"],
+  "forbiddenPaths": [],
+  "backupDir": null,
+  "claudePath": null,
+  "everythingPath": null,
+  "notifyCommand": null
+}

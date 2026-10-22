@@ -1,0 +1,9 @@
+pkgs/
+backups/
+node_modules/
+*.log
+*.lock
+*-state.json
+last-*.txt
+onboard.enabled
+onboard.config.json
